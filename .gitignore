@@ -2,7 +2,6 @@ allure*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
-*.py[codz]
 *$py.class
 
 # C extensions
@@ -48,7 +47,6 @@ htmlcov/
 nosetests.xml
 coverage.xml
 *.cover
-*.py.cover
 .hypothesis/
 .pytest_cache/
 cover/
@@ -247,7 +245,6 @@ Temporary Items
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
-*.py[cod]
 *$py.class
 
 # C extensions
@@ -293,7 +290,6 @@ htmlcov/
 nosetests.xml
 coverage.xml
 *.cover
-*.py,cover
 .hypothesis/
 .pytest_cache/
 cover/
@@ -478,7 +474,6 @@ pyrightconfig.json
 *testsdir
 *testsfile
 *testsfiles
-*test
 *testdir
 *testfile
 *testfiles
